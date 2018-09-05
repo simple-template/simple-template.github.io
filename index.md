@@ -23,3 +23,4 @@ to be used by users and the link corresponds to that particular template’s
 demonstration website.
 
 * [Jekyll](/jekyll/)
+* [Pandoc](/pandoc/)
